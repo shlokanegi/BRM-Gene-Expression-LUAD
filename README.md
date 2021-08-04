@@ -5,7 +5,8 @@
 ### Overview
 BRM (encoded by _SMARCA2_) is one of the catalytic units of the SWI/SNF chromatin remodeler. This protein and its gene variations have been found to be associated with the risk of susceptibility and prognosis in multiple human cancers. We aimed to investigate whether gene expression levels of BRM in lung adenocarcinoma (LUAD) tumor tissues were associated with expression profiles of other genes, which pathways these genes clustered in, and whether they were associated with the survival times of LUAD patients in the TCGA dataset. Our findings revealed genes whose expression levels correlated with that of BRM. GO and pathway enrichment analysis under medium and high classification stringency respectively, unanimously revealed mitochondrial translation as most enriched pathway. Finally, survival analysis showed that _NFIX, TUBA1C, RASSF5, DTYMK_ and _CKS1B_ were significantly associated with survival outcomes in LUAD patients.
 
-<img width="1440" alt="Shloka-Poster-MITACS-cropped" src="https://user-images.githubusercontent.com/66521525/127766246-06aab6be-244d-4e3c-a7ba-cd3f420c854c.png">
+<img width="1433" alt="MITACS-poster-final" src="https://user-images.githubusercontent.com/66521525/128172502-d0f4c14c-12c0-4134-9a4e-fb0d9f9f144e.png">
+
 
 ### IMPLEMENTATION is divided into the following parts :-
 #### 1) Data Collection and Pre-processing
