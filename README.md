@@ -21,7 +21,7 @@ The _SMARCA2_ gene expression was analysed in LUAD tumor samples. Histograms wer
 #### 4) Gene Ontology and Reactome Pathway Enrichment Analysis
 We analysed the top 3000 genes using the Functional Annotation Clustering tool of Database for Annotation, Visualization and Integrated Discovery (DAVID) online tool (DAVID Functional Annotation Bioinformatics Microarray Analysis). GO clusters were obtained under medium classification stringency, whereas the Reactome Pathway clusters were obtained under high classification stringency. Further, we performed Overrepresentation Analysis using the Reactome online tool (Reactome Pathway Database) to visualize the coverage of our enriched pathways by the clustered genes.
 
-#### 4) Survival Analysis
+#### 5) Survival Analysis
 The OncoLnc online tool (OncoLnc) was utilized to study the overall survival (OS) of the top 15 significant genes. Genes with FDR corrected Cox regression p-value < 0.05 were considered to be significantly related to survival outcomes.  
 
 
